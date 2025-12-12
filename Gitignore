@@ -1,0 +1,39 @@
+# Directorios de Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-version
+
+# Archivos de configuración de editores
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/local.properties
+**/build/
+*.keystore
+
+# iOS
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Runner.xcworkspace/
+ios/build/
+*.xcuserstate
+*.xcworkspace
+*.xcconfig
+
+# Archivos de sistema y logs
+*.log
+*.lock
+*.tmp
+*.DS_Store
